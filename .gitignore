@@ -1,0 +1,8 @@
+
+
+slprj/
+codegen/
+*.asv
+*.autosave
+*.log
+*.slxc
